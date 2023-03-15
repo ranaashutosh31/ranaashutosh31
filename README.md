@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi(Namastey!) 🙏 , I'm Ashutosh Rana</h1>
+![MasterHead](myBanner.png)
+<h1 align="center">🙏🏻 Namastey! I'm Ashutosh Rana</h1>
 <h3 align="center">A passionate Developer and Community Builder from India..</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/ranaashutosh31" target="blank"><img src="https://img.shields.io/twitter/follow/ranaashutosh31?logo=twitter&style=for-the-badge" alt="ranaashutosh31" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter based project**
+- 🔭 Currently working on **Flutter based project..**
 
-- 🌱 I’m currently learning **Flutter, Java, Salesforce, Cloud..**
+- 🌱 Currently learning and growing in **Flutter, Java, Salesforce, Cloud..**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ranaashutosh31](https://github.com/ranaashutosh31)
+- 👨‍💻 All of my projects are available at - [GitHub](https://github.com/ranaashutosh31)
 
-- 📝 I ocassionally write articles on [https://medium.com/@ranaashutosh0731](https://medium.com/@ranaashutosh0731)
+- 📝 I ocassionally write articles on - [Medium](https://medium.com/@ranaashutosh0731)
 
 - 💬 Let's talk about **Java, Cloud, Salesforce..**
 
-- 📫 Reach me through **https://linktr.ee/ranaashutosh31**
+- 📫 Surely Connect with me through - **[My Linktr.ee](https://linktr.ee/ranaashutosh31)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ranaashutosh31](https://www.linkedin.com/in/ranaashutosh31)
+- 📄 Know about my experiences at [My LinkedIn](https://www.linkedin.com/in/ranaashutosh31)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
