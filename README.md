@@ -39,6 +39,4 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaashutosh31&" alt="ranaashutosh31" /></p>
 </div>
-<div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranaashutosh31&show_icons=true&locale=en&layout=compact" alt="ranaashutosh31" /></p>
-</div>
+
