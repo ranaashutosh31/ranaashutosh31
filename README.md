@@ -37,6 +37,6 @@
 
 <div ><p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ranaashutosh31&show_icons=true&locale=en" alt="ranaashutosh31" />
 
-<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaashutosh31&" alt="ranaashutosh31" /></p>
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaashutosh31&" alt="ranaashutosh31" /></p>
 </div>
 
